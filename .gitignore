@@ -8,3 +8,4 @@ typechain
 cache
 artifacts
 .deployed_contracts.json
+test.sol
